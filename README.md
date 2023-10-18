@@ -19,4 +19,4 @@ npm test
 
 **Se requiere contar con una base de datos llamada blog_it_dev**
 
-![alt text]('/images/Diagramas.png')
+![Diagramas](https://github.com/sacd89/blog-it-api/raw/main/public/images/Diagramas.png)
